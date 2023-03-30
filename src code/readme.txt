@@ -1,0 +1,1 @@
+To run the style transfer, run "python neural_style.py"
